@@ -13,7 +13,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+    // Desenvolvido por Beatriz Caldeira - com auxílio de Pedro A.
     // atributos relativos aos objetos gráficos
     private EditText txtTexto;
     private Button btnAdiciona;
